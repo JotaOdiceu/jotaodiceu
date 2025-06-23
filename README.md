@@ -27,13 +27,13 @@
 
 ## 🧪 SaaS Solutions I've Built
 
-- 💸 **Finance Management Platform**  
+- 💸 **Finance Management Platform**\
   Expense tracking, cost centers, billing automation, and reporting
 
-- 📂 Document Management System
+- 📂 **Document Management System**\
   Tagging, categorization, versioning, audit trail, and digital signature support
 
-- 🩺 Occupational Health & Safety Management
+- 🩺 **Occupational Health & Safety Management**\
   Equipment delivery tracking (PPE), deadline control, replacement cycles, Excel import, external API validation, and dual-schema architecture with Prisma
 
 ---
